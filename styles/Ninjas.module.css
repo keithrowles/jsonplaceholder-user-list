@@ -1,0 +1,11 @@
+.single {
+    padding: 2px 16px;
+    background-color: azure;
+    display: block;
+    margin: 20px 10px;
+    border-left: 8px solid rgb(192, 217, 243);
+}
+
+.single:hover {
+    border-left: 8px solid dodgerblue;
+}
